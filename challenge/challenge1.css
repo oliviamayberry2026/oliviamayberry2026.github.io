@@ -1,0 +1,40 @@
+body {background-color: black;
+}
+div 
+#one {
+    width: 250px;
+    height: 250px;
+    background-color: green;}
+
+body
+#one {margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {background-color: black;
+}
+div 
+#two {
+    width: 250px;
+    height: 250px;
+    background-color: yellow;}
+
+body
+#two {margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+div 
+#three {
+    width: 250px;
+    height: 250px;
+    background-color: red;}
+
+body
+#three {margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
