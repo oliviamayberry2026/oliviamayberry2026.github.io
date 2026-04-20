@@ -1,0 +1,17 @@
+#title {
+    font-size:xx-large;
+    font-weight: bold;
+    font-style: italic;
+    font-variant-caps: titling-caps;
+}
+
+h3 { 
+    font-style:italic;
+}
+
+div {
+    backround-color: lightgray;
+    display: inline-block;
+}
+
+#leftColumn
